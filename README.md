@@ -61,7 +61,7 @@ Desde terminal o phpMyAdmin.
 
 Abrir en navegador:
 
-http://localhost/inventariov8/index.php
+http://localhost/inventario/index.php
 
 ---
 
