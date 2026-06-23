@@ -29,7 +29,7 @@ Navegador web
 
 Clonar repositorio:
 
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/bsmaceira/inventario
 
 Colocar el proyecto en el directorio del servidor:
 
@@ -76,9 +76,6 @@ http://localhost/inventariov8/index.php
 /nuevo_movimiento.php
 /database.sql
 /script.sql
-
-/api
-    buscar_materiales.php
 
 /includes
     header.php
