@@ -68,20 +68,33 @@ http://localhost/inventariov8/index.php
 ## Estructura del proyecto
 
 /db.php
+
 /index.php
+
 /material.php
+
 /movimientos.php
+
 /nuevo_material.php
+
 /baja_material.php
+
 /nuevo_movimiento.php
+
 /database.sql
+
 /script.sql
 
+
 /includes
+
     header.php
+    
     footer.php
 
+
 /css
+
     estilos.css
 
 ---
